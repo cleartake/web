@@ -1,0 +1,51 @@
+ticker,name,layer,price,price_date
+NVDA,NVIDIA,Compute,188.85,2026-01-02
+AMD,AMD,Compute,223.47,2026-01-02
+INTC,Intel,Compute,39.38,2026-01-02
+TSM,TSMC,Compute,319.61,2026-01-02
+ASML,ASML,Compute,1163.78,2026-01-02
+AVGO,Broadcom,Compute,347.62,2026-01-02
+MU,Micron,Compute,315.42,2026-01-02
+ANET,Arista Networks,Compute,133.60,2026-01-02
+QCOM,Qualcomm,Compute,172.98,2026-01-02
+MRVL,Marvell Technology,Compute,89.39,2026-01-02
+SNPS,Synopsys,Compute,480.42,2026-01-02
+CDNS,Cadence Design Systems,Compute,310.40,2026-01-02
+GFS,GlobalFoundries,Compute,36.87,2026-01-02
+SMCI,Super Micro Computer,Compute,30.96,2026-01-02
+DELL,Dell Technologies,Compute,127.80,2026-01-02
+HPE,Hewlett Packard Enterprise,Compute,24.17,2026-01-02
+ON,ON Semiconductor,Compute,56.70,2026-01-02
+MSFT,Microsoft,Platform,472.94,2026-01-02
+AMZN,Amazon,Platform,226.50,2026-01-02
+GOOGL,Alphabet,Platform,315.15,2026-01-02
+META,Meta,Platform,650.41,2026-01-02
+ORCL,Oracle,Platform,195.71,2026-01-02
+SNOW,Snowflake,Platform,216.71,2026-01-02
+DDOG,Datadog,Platform,133.77,2026-01-02
+MDB,MongoDB,Platform,399.65,2026-01-02
+PLTR,Palantir,Platform,167.86,2026-01-02
+NOW,ServiceNow,Platform,147.45,2026-01-02
+IBM,IBM,Platform,291.50,2026-01-02
+ESTC,Elastic,Platform,72.56,2026-01-02
+CFLT,Confluent,Platform,30.11,2026-01-02
+TWLO,Twilio,Platform,138.36,2026-01-02
+OKTA,Okta,Platform,83.64,2026-01-02
+TEAM,Atlassian,Platform,154.76,2026-01-02
+GTLB,GitLab,Platform,36.18,2026-01-02
+NET,Cloudflare,Platform,196.02,2026-01-02
+AKAM,Akamai Technologies,Platform,85.10,2026-01-02
+ADBE,Adobe,Application,333.30,2026-01-02
+CRM,Salesforce,Application,253.62,2026-01-02
+INTU,Intuit,Application,629.46,2026-01-02
+SHOP,Shopify,Application,157.20,2026-01-02
+DUOL,Duolingo,Application,176.48,2026-01-02
+ZM,Zoom,Application,83.32,2026-01-02
+ADSK,Autodesk,Application,286.73,2026-01-02
+WDAY,Workday,Application,205.79,2026-01-02
+HUBS,HubSpot,Application,382.23,2026-01-02
+DOCU,DocuSign,Application,64.85,2026-01-02
+U,Unity Software,Application,44.25,2026-01-02
+PATH,UiPath,Application,15.88,2026-01-02
+CRWD,CrowdStrike,Application,453.58,2026-01-02
+ZS,Zscaler,Application,220.57,2026-01-02
