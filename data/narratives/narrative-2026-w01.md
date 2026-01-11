@@ -13,7 +13,3 @@ The AI value chain split sharply. Compute jumped nearly 4% while Platform and Ap
 
 The concentration pattern confirms the rotation story. The top 5 contributors posted gains while the rest of the index lost ground — an inverted week where leadership and the broader market moved in opposite directions. Bubble pressure remains moderate across all layers, though Application shows the highest valuation acceleration, suggesting expectations there may have run ahead of the pullback.
 
-
-
-
-
