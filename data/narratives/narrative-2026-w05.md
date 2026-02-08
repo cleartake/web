@@ -1,8 +1,12 @@
 ---
-week: 2026-W05 date: 1/2/2026 generated_from:
-- vci_aggregate.csv
-- ai_concentration_index.csv
-- bubble_index.csv classification: descriptive title: Week 05, 2026 – January Ends With a Broad Selloff
+week: 2026-W05 
+date: 1/2/2026 
+generated_from:
+  - vci_aggregate.csv
+  - ai_concentration_index.csv
+  - bubble_index.csv 
+classification: descriptive 
+title: Week 05, 2026 – January Ends With a Broad Selloff
 ---
 
 All three layers fell together for the first time since October. The aggregate index dropped 2.6% — the seventh-largest weekly decline on record and the worst since the December drawdown. Application led the selloff, followed closely by Compute, with Platform holding up relatively better but still firmly negative.
