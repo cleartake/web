@@ -1,5 +1,5 @@
 layer,bubble_index,valuation_level,valuation_acceleration,price_momentum,fundamental_divergence,companies_with_data,calculation_date,version
-Compute,0.335,0.208,0.422,0.21,0.5,17,2026-05-16,
-Platform,0.366,0.276,0.393,0.299,0.5,19,2026-05-16,
-Application,0.329,0.141,0.528,0.151,0.5,14,2026-05-16,
-Aggregate,0.3451,,,,,50,2026-05-16,v3.0
+Compute,0.352,0.208,0.473,0.234,0.5,17,2026-05-23,
+Platform,0.37,0.276,0.421,0.283,0.5,19,2026-05-23,
+Application,0.333,0.142,0.497,0.204,0.5,14,2026-05-23,
+Aggregate,0.35352,,,,,50,2026-05-23,v3.0
