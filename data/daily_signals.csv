@@ -1,4 +1,53 @@
 date,ticker,company_name,layer,daily_return,benchmark_return,relative_move,signal_type,rank
+2026-05-26,MU,Micron,Compute,19.29,0.61,18.68,Leader,1
+2026-05-26,ON,ON Semiconductor,Compute,9.29,0.61,8.68,Leader,2
+2026-05-26,AMD,AMD,Compute,7.78,0.61,7.17,Leader,3
+2026-05-26,MRVL,Marvell Technology,Compute,6.08,0.61,5.47,Leader,4
+2026-05-26,GFS,GlobalFoundries,Compute,5.04,0.61,4.43,Leader,5
+2026-05-26,U,Unity Software,Application,4.69,0.61,4.08,Leader,6
+2026-05-26,QCOM,Qualcomm,Compute,4.48,0.61,3.87,Leader,7
+2026-05-26,SMCI,Super Micro Computer,Compute,4.27,0.61,3.66,Leader,8
+2026-05-26,DELL,Dell Technologies,Compute,3.35,0.61,2.74,Leader,9
+2026-05-26,SNOW,Snowflake,Platform,3.14,0.61,2.53,Leader,10
+2026-05-26,INTC,Intel,Compute,3.07,0.61,2.46,Leader,11
+2026-05-26,ANET,Arista Networks,Compute,2.58,0.61,1.97,Leader,12
+2026-05-26,CDNS,Cadence Design Systems,Compute,2.18,0.61,1.57,Leader,13
+2026-05-26,TSM,TSMC,Compute,1.93,0.61,1.32,Leader,14
+2026-05-26,AVGO,Broadcom,Compute,1.9,0.61,1.29,Leader,15
+2026-05-26,SNPS,Synopsys,Compute,1.87,0.61,1.26,Leader,16
+2026-05-26,SHOP,Shopify,Application,1.84,0.61,1.23,Leader,17
+2026-05-26,OKTA,Okta,Platform,1.7,0.61,1.09,Leader,18
+2026-05-26,GOOGL,Alphabet,Platform,1.54,0.61,0.93,Leader,19
+2026-05-26,PATH,UiPath,Application,1.46,0.61,0.85,Leader,20
+2026-05-26,HPE,Hewlett Packard Enterprise,Compute,1.28,0.61,0.67,Leader,21
+2026-05-26,CRWD,CrowdStrike,Application,1.22,0.61,0.61,Leader,22
+2026-05-26,ZS,Zscaler,Application,1.22,0.61,0.61,Leader,23
+2026-05-26,TWLO,Twilio,Platform,0.94,0.61,0.33,Leader,24
+2026-05-26,AKAM,Akamai Technologies,Platform,0.67,0.61,0.05,Leader,25
+2026-05-26,NET,Cloudflare,Platform,0.63,0.61,0.02,Leader,26
+2026-05-26,MDB,MongoDB,Platform,-5.76,0.61,-6.37,Laggard,1
+2026-05-26,ZM,Zoom,Application,-5.25,0.61,-5.86,Laggard,2
+2026-05-26,INTU,Intuit,Application,-4.87,0.61,-5.48,Laggard,3
+2026-05-26,WDAY,Workday,Application,-3.22,0.61,-3.83,Laggard,4
+2026-05-26,NOW,ServiceNow,Platform,-2.16,0.61,-2.77,Laggard,5
+2026-05-26,HUBS,HubSpot,Application,-1.97,0.61,-2.58,Laggard,6
+2026-05-26,ADBE,Adobe,Application,-1.74,0.61,-2.36,Laggard,7
+2026-05-26,IBM,IBM,Platform,-1.24,0.61,-1.85,Laggard,8
+2026-05-26,ADSK,Autodesk,Application,-1.15,0.61,-1.76,Laggard,9
+2026-05-26,ESTC,Elastic,Platform,-0.73,0.61,-1.34,Laggard,10
+2026-05-26,MSFT,Microsoft,Platform,-0.61,0.61,-1.22,Laggard,11
+2026-05-26,TEAM,Atlassian,Platform,-0.59,0.61,-1.2,Laggard,12
+2026-05-26,CRM,Salesforce,Application,-0.55,0.61,-1.16,Laggard,13
+2026-05-26,DOCU,DocuSign,Application,-0.42,0.61,-1.03,Laggard,14
+2026-05-26,AMZN,Amazon,Platform,-0.39,0.61,-1.0,Laggard,15
+2026-05-26,NVDA,NVIDIA,Compute,-0.22,0.61,-0.83,Laggard,16
+2026-05-26,PLTR,Palantir,Platform,-0.2,0.61,-0.82,Laggard,17
+2026-05-26,DUOL,Duolingo,Application,-0.12,0.61,-0.73,Laggard,18
+2026-05-26,ASML,ASML,Compute,-0.05,0.61,-0.66,Laggard,19
+2026-05-26,GTLB,GitLab,Platform,0.15,0.61,-0.46,Laggard,20
+2026-05-26,META,Meta,Platform,0.34,0.61,-0.27,Laggard,21
+2026-05-26,ORCL,Oracle,Platform,0.51,0.61,-0.1,Laggard,22
+2026-05-26,DDOG,Datadog,Platform,0.6,0.61,-0.01,Laggard,23
 2026-05-22,DELL,Dell Technologies,Compute,16.77,0.37,16.4,Leader,1
 2026-05-22,QCOM,Qualcomm,Compute,11.6,0.37,11.22,Leader,2
 2026-05-22,HPE,Hewlett Packard Enterprise,Compute,10.63,0.37,10.25,Leader,3
