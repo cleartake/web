@@ -251,3 +251,6 @@ date,layer,layer_level,layer_return,companies_count,version
 2026-08-07,Compute,93.1589,0.022337,17,v1.0
 2026-08-07,Platform,97.8862,0.063223,18,v1.0
 2026-08-07,Application,105.8179,0.040715,14,v1.0
+2026-08-14,Compute,93.4104,0.0027,17,v1.0
+2026-08-14,Platform,96.0649,-0.018607,18,v1.0
+2026-08-14,Application,102.1937,-0.03425,14,v1.0
